@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23liQJy5dKVSjDqiAD"
 GITHUB_OWNER = "soho1319"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://cicidh.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://cicidh.pages.dev"
+NEXTAUTH_URL = "https://dacici.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://dacici.pages.dev"
 
